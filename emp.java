@@ -1,4 +1,5 @@
 Class Emp{
-	private empno;
-	private ename;
+	private Integer empno;
+	private String ename;
+
 }
